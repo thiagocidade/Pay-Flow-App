@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684194047952",
+    "project_id": "payflow-rocketseat-flutter",
+    "storage_bucket": "payflow-rocketseat-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684194047952:android:468920a0444f4f24b9bbd5",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684194047952-2vdgqobrjqeumvra58o0db9kkpehaijs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "3fcc9bbd3b6e43d65c6d36a587504c145afea43b"
+          }
+        },
+        {
+          "client_id": "684194047952-44k402i76f3bsqehql8sbk3jr0tqvvuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAb3_7CY6oPi7IRo86WroSIKAS9-mGls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684194047952-44k402i76f3bsqehql8sbk3jr0tqvvuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
